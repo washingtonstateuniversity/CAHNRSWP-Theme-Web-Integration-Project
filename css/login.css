@@ -1,0 +1,15 @@
+/*html { background-color:#EEEFF1; }
+body.login { background:url(http://images.wsu.edu/global/gen2images/bg.jpg) repeat-x #EEEFF1; font-family:"Lucida Grande","Lucida Sans Unicode",Arial,san-serif; min-height:990px; }
+#login { padding:0; }
+.login h1 a { background:url(../images/login.png) no-repeat scroll center top transparent; background-size:133px 118px; height:120px; padding-bottom:15px; width:100%; }
+.login form { margin-left:0; }
+label { color:#262a2d; font-size:12px; }
+.wp-core-ui .button-primary { background: url(../images/button-grad.png) repeat-x scroll left top #981e32; border-color:#c60c30; }
+.wp-core-ui .button-primary.hover, .wp-core-ui .button-primary:hover, .wp-core-ui .button-primary.focus, .wp-core-ui .button-primary:focus { background:#c60c30 url(../images/button-grad-active.png) repeat-x scroll left top; border-color:#981e32; }
+.wp-core-ui .button-primary:active { background:#c60c30 url(../images/button-grad-active.png) repeat-x scroll left top; color:#eaf2fa; }
+#backtoblog { background:transparent; border-bottom:none; }
+.login #nav a, .login #backtoblog a { color:#003C69 !important; }
+.login #nav a:hover, .login #backtoblog a:hover { color:#981e32 !important; text-decoration:none; }
+#login_error, .message { margin:0 0 15px 0; }
+.updated, .login .message { background-color:#faf8f3; border-color:#dbceac; }
+body,#wpbody, .form-table .pre { color:#262a2d; }*/

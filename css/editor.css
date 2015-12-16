@@ -1,0 +1,20 @@
+html .mceContentBody { max-width:731px; }
+* { font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, san-serif; color:#262A2D; }
+p, dl, td, th, ul, ol { font-size:12px; margin:0; }
+blockquote { font-size:12px; }
+h1, h2, h3, h4, h5, h6 { font-weight:bold; padding-bottom:6px; margin:0; }
+h1 { font-size:26.4px; }
+h2 { font-size:22px; }
+h3 { font-size:18; }
+h4 { font-size:14.4px; }
+h5 { font-size:12px}
+h6 { font-size:10px; font-weight:normal; }
+p { padding-bottom:12px; line-height:19px; }
+ul, ol { padding:0 0 0 20px; margin:0 0 15px 15px; }
+li ul, li ol { margin-bottom:0; }
+li { margin:0; padding:0; line-height:19px; }
+a { color:#003c69; text-decoration:underline; }
+.alignright { float:right; margin-left:15px; text-align:center; }
+.alignleft { float:left; margin-right:15px; text-align:center; }
+.aligncenter { margin:0 auto; text-align:center; }
+#content p.wp-caption-text, p.wp-caption-text, .wp-caption-dd { font-size:10px; line-height:19px; color:#262a2d; padding:5px 0px; margin:0px; letter-spacing:0em; font-weight:normal; }

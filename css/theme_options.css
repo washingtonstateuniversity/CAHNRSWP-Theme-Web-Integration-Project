@@ -1,0 +1,12 @@
+.headercolors { float:left; margin-right:20px; }
+.headercolors td { padding:0; }
+.headercolors td label { border:2px solid #fff; display:block; height:20px; width:20px; }
+.headercolors td label.crimson { background-color:#981e32; }
+.headercolors td label.grey { background-color:#5e6a71; }
+.headercolors td label.black { background-color:#262a2d; }
+.headercolors td label.blue { background-color:#003c69; }
+.headercolors td label.brown { background-color:#452325; }
+.headercolors td label.green { background-color:#b6bf00; }
+.headercolors td label.orange { background-color:#ec7a08; }
+.headercolors td label.aqua { background-color:#3cb6ce; }
+.headercolors td input[type="radio"]:checked + label { border:2px solid #000; }
