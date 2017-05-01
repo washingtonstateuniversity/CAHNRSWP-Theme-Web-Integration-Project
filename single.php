@@ -20,8 +20,10 @@ if( $redirect ) {
 		// If a layout other than "Full Width" is selected, split the post content at the more tags
 		if( isset( $layoutMeta['layout'] ) &&
 				( $layoutMeta['layout'] != '' || $layoutMeta['layout'] != '0' )
-		)
-			$content = split( "<!--more-->", $post->post_content );
+		) {
+			// Double angle brackets are necessary for the pattern to match.
+			$content = preg_split( "<<!--more-->>", $post->post_content );
+		}
 
 		// Show the title across all columns if a two equal, three, or four column layout
 		if( isset( $layoutMeta['layout'] ) &&
